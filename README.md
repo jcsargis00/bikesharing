@@ -27,7 +27,7 @@ Do more bike trips take place by weekday at certain hours?  A graph the number o
 #
 Bikes were most popular between 8am and 9am, and 5pm and 7pm during the week, possibly being used for commuting to a 9 to 5 job.  On the weekend, bikes were most popular between 10am and 7pm, likely daylight hours after sleeping in for the weekend.
 #
-Is gender a factor during certain hours or on certain days? A graph the number of bike trips by gender for each hour of each day of the week as a heatmap below.
+Is gender a factor during certain hours or on certain days? A graph of the number of bike trips by gender for each hour of each day of the week as a heatmap below.
 ![heatmap by gender](https://github.com/jcsargis00/bikesharing/blob/main/images/tripsbygenderweekdayperhour.PNG)
 #
 According to the heatmap, more males used the service during the week during commuting hours.  More males and females used the service on weekends between 10am and 7pm, with more riders being male.  From midnight to 6am, usage was low in general.
@@ -43,12 +43,13 @@ by customers who did not indicate gender than subscribers who did not indicate g
 # 
 Deliverable #1 
 #
-Data in tripduration column is converted to a datetime datatype with correct time format
+Data in trip duration column is converted to a datetime datatype with correct time format
 #
 ![convert datatype](https://github.com/jcsargis00/bikesharing/blob/main/images/datatypes.PNG)
 #
 ### The correct time format for tripduration is shown below
-![trip new format](https://github.com/jcsargis00/bikesharing/blob/main/images/tripdurationconvert.PNG
+#
+![trip new format](https://github.com/jcsargis00/bikesharing/blob/main/images/tripdurationconvert.PNG)
 ### The dataframe was exported as a new file without the index column using the command below:
 #
 ![new csv export file](https://github.com/jcsargis00/bikesharing/blob/main/images/newexportfile.PNG)
