@@ -89,7 +89,7 @@ Observations:
 * It is possible Citi Bike services are used as transportation by commuting workers.
 * The optimum time for bike maintenance is between midnight and 5am
 #
-Additional analysis would be beneficial by :
+Suggestions for creating other visualizations for future analysis:
 
 Analyzing data for different months to determine trends across the year
 * Including weather data for usage
