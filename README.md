@@ -21,7 +21,7 @@ To determine if bikesharing is preferred by one gender over another, checkout ti
 #
 These graphs show many more males use the service than females, or riders who did not identify their gender.
 #
-Do more bike trips take place by weekday at certain hours?  A graph the number of bike trips by weekday for each hour of the day as a heatmap is below to show the data.
+Do more bike trips take place by weekday at certain hours?  A graph of the number of bike trips by weekday for each hour of the day as a heatmap is shown below:
 #
 ![heatmap](https://github.com/jcsargis00/bikesharing/blob/main/images/tripsweekdayhour.PNG)
 #
@@ -61,6 +61,22 @@ See line graphs and heatmaps above.
 Deliverable #3
 #
 Story board screen shots, also stored in Tableau Public, <https://public.tableau.com/app/profile/joy.sargis/viz/NYCCitibikeAnalysis_16492013874490/NYCCitibikeAnalysis>
+#
+Story 1
+![story1](https://github.com/jcsargis00/bikesharing/blob/main/images/story1.PNG)
+#
+Story 2
+![story2](https://github.com/jcsargis00/bikesharing/blob/main/images/story2.PNG)
+#
+Story 3
+![story3](https://github.com/jcsargis00/bikesharing/blob/main/images/story3.PNG)
+#
+Story 4
+![story4](https://github.com/jcsargis00/bikesharing/blob/main/images/story4.PNG)
+#
+Story 5
+![story5](https://github.com/jcsargis00/bikesharing/blob/main/images/story5.PNG)
+#
 ### Summary
 #
 * The data shows high activity of the bike sharing service in New York during the month of August 2019.
