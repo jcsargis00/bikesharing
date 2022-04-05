@@ -6,7 +6,7 @@ Two entrepreneurs are looking into using the NYC Citibike bikesharing business m
 in Des Moines.  Data can be analyzed on bike usage by time of day, day of week, gender, user type, start and end
 points for usage, time period for usage and bike maintenance times.
 Data from the NYC Citibike bikesharing company has been analyzed and put together with Tableau Visualization software.
-To get started, tripduration data was converted from an integer to a datetime in seconds.  The new format was saved
+To get started, trip duration data was converted from an integer to a datetime in seconds.  The new format was saved
 into a csv file to be used for the visualization examples.
 ### Overview of the statistical analysis
 Initial visualaztions are graphs depicting checkout time for all users and checkout time by gender
@@ -47,7 +47,7 @@ Data in trip duration column is converted to a datetime datatype with correct ti
 #
 ![convert datatype](https://github.com/jcsargis00/bikesharing/blob/main/images/datatypes.PNG)
 #
-### The correct time format for tripduration is shown below
+### The correct time format for trip duration is shown below
 #
 ![trip new format](https://github.com/jcsargis00/bikesharing/blob/main/images/tripdurationconvert.PNG)
 ### The dataframe was exported as a new file without the index column using the command below:
