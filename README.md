@@ -60,7 +60,9 @@ See line graphs and heatmaps above.
 #
 Deliverable #3
 #
-Story board screen shots, also stored in Tableau Public, <https://public.tableau.com/app/profile/joy.sargis/viz/NYCCitibikeAnalysis_16492013874490/NYCCitibikeAnalysis>
+Story board screen shots, also stored in Tableau Public, see link to dashboard below:
+#
+[link to dashboard] (https://public.tableau.com/app/profile/joy.sargis/viz/NYCCitibikeAnalysisforDesMoines/NYCCitibikeAnalysis?publish=yes)
 #
 Story 1
 ![story1](https://github.com/jcsargis00/bikesharing/blob/main/images/story1.PNG)
