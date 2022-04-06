@@ -9,7 +9,7 @@ Data from the NYC Citibike bikesharing company has been analyzed and put togethe
 To get started, trip duration data was converted from an integer to a datetime in seconds.  The new format was saved
 into a csv file to be used for the visualization examples.
 ### Overview of the statistical analysis
-Initial visualaztions are graphs depicting checkout time for all users and checkout time by gender
+Initial visualizations are graphs depicting checkout time for all users and checkout time by gender
 #
 Checkout times for all riders are shown below:
 #
